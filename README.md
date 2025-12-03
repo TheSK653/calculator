@@ -1,2 +1,3 @@
-this repository have a file which is a cooling calculator
+This repository have a file which is a cooling calculator
 
+I have updated your ReadME file 
